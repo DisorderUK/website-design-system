@@ -1,0 +1,94 @@
+body {
+    font-family: "Sora", Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin: 0 10%;
+}
+
+.container {
+    border: 2px solid #a2a2a6;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+.colour-container{
+    width: 100%
+}
+
+.colour-panel {
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+}
+
+.mojo {
+    background-color: #CB4647;
+    color: #fff
+}
+
+.dark-blue {
+    background-color: rgb(10, 17, 27);
+    color: #fff
+}
+
+.link-water {
+    background-color: #DDECF4;
+    color: black;
+}
+
+.marigold-yellow {
+    background-color: rgb(249, 222, 111);
+    color: black;
+}
+
+.font-panel {
+    width: 45%;
+    display: inline-block;
+}
+
+.font-label {
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.regular {
+    font-style: normal;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.sora {
+    font-family: "Sora", sans-serif;
+}
+
+.inter {
+    font-family: "Inter", sans-serif;
+}
+
+.raleway {
+    font-family: "Raleway", sans-serif;
+}
+
+.text-panel h1 {
+    font-weight: 400;
+    font-size: 56px;
+    font-family: "Sora";
+}
+
+.text-panel h2 {
+    font-weight: 700;
+    font-size: 36px;
+    font-family: "Sora";
+}
+
+.text-panel p {
+    font-weight: 400;
+    font-size: 18px;
+    font-family: "Inter";
+}
